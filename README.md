@@ -39,6 +39,14 @@ conda install jupyter
 streamlit run app.py
 ```
 
+### **Run the web app**
+
+
+```bash
+streamlit run app.py
+
+```
+
   Local URL: http://localhost:8506
   Network URL: http://192.168.18.161:8506
 
