@@ -44,7 +44,6 @@ streamlit run app.py
 
 ```bash
 streamlit run app.py
-
 ```
 
   Local URL: http://localhost:8506
