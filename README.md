@@ -33,7 +33,7 @@ conda install jupyter
 
 ### **2. Run the Web App**
 ```
-Launch the application:
+
 
 ```bash
 streamlit run app.py
