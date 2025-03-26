@@ -51,13 +51,11 @@ streamlit run app.py
 ## **Folder Structure**
 ```
 📂 SB 
- ┣ 📂 test_data             # Dataset images  
- ┣ 📜 app.py              # Main application  
- ┣ 📜 predict_page.py       # Embedding extraction script  
- ┣ 📜 sbank(1).ipynb    # jupyter notebook
- 
- ┣ 📜 README.md           # Project documentation  
- 
+ ┣ 📂 test_data               
+ ┣ 📜 app.py              
+ ┣ 📜 predict_page.py         
+ ┣ 📜 sbank(1).ipynb  
+ ┣ 📜 README.md           
 ```
 
 ## **Contributors**
