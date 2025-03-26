@@ -8,6 +8,8 @@ This project is a multi-modal image retrieval system that allows users to search
 - 🖥️ **User-friendly web interface** for query input and results display  
 - 📁 **Supports a dataset of 500 images** for testing  
 
+![Front end UI](/front.jpg)
+
 ## **Installation**
 ### **Prerequisites**
 Ensure you have **Python 3.8+** installed. Then, install dependencies:
@@ -35,12 +37,7 @@ conda install jupyter
 ```
 
 
-```bash
-streamlit run app.py
-```
-
-### **Run the web app**
-
+Launch the application:
 
 ```bash
 streamlit run app.py
